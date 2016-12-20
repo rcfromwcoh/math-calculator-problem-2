@@ -17,7 +17,7 @@ namespace SumOfTwoNumbersProblem2
             do
             {
 
-                Console.WriteLine("Enter your first number:");
+                Console.WriteLine("Please enter your first number:");
                 firstNum = double.Parse(Console.ReadLine());
                 Console.WriteLine("Enter Operation:");
                 string operation = Console.ReadLine();
